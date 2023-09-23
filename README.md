@@ -1,13 +1,10 @@
 # parcial-2
 
 import java.util.ArrayList;
-
 import java.util.List;
 
 // Interfaz para definir el comportamiento de un boleto
-
 interface Boleto {
-
     void mostrarInformacion();
 }
 
